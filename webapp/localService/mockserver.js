@@ -5,6 +5,7 @@ sap.ui.define([
 	"use strict";
 
 	return {
+
 		init: function () {
 			// create
 			var oMockServer = new MockServer({
