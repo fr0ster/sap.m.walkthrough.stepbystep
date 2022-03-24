@@ -2,6 +2,3 @@ specVersion: '2.6'
 metadata:
   name: sap.m.walkthrough.stepbystep
 type: application
-framework:
-  name: OpenUI5
-  version: "1.100.0"
