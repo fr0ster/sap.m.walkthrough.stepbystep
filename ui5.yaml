@@ -1,6 +1,6 @@
-specVersion: '2.0'
+specVersion: '2.6'
 metadata:
-  name: WalkthroughTutorial
+  name: sap.m.walkthrough.stepbystep
 type: application
 framework:
   name: OpenUI5
